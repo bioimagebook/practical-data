@@ -1,2 +1,3 @@
-# practical-data
-Practical data for https://bioimage-book.github.io
+# Practical data
+
+Images for use with https://bioimage-book.github.io
